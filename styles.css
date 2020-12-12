@@ -1,0 +1,13 @@
+<style>
+    .button {
+        width: 180px;
+        height: 139px;
+        background: url("images/indexbutton1.png") no-repeat;
+        text-align: center;
+        vertical-align: middle;
+        display: table-cell;
+    }
+    .button:hover {
+        background: url("images/indexbutton2.png") no-repeat;
+    }
+</style>
